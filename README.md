@@ -13,7 +13,6 @@ Required python packages for this projects:
 2.To Read Text (Text to Speech)
 
  ```bash
-  pip install pyaudio
   pip install pyttsx3
 ```   
 ## Acknowledgements
